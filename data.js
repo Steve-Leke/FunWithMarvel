@@ -24,6 +24,13 @@ let movieList = [
   "Avengers: Infinity War",
 ]
 
+// for (let i = 0; i < movieList.length; i++){
+//   let newElement = `
+//   <p>${movieList[i]}</p>
+//   `
+//   $("#display-area").append(newElement);
+// }
+
 
 
 //CHALLENGE 2: OBJECT PRACTICE
